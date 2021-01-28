@@ -1,0 +1,235 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-100.eot');
+    src: url('metropolis-100d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-100.html') format('woff2'),
+         url('metropolis-100.woff') format('woff'),
+         url('metropolis-100.ttf') format('truetype'),
+         url('metropolis-101.html') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-100i.eot');
+    src: url('metropolis-100id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-100i.html') format('woff2'),
+         url('metropolis-100i.woff') format('woff'),
+         url('metropolis-100i.ttf') format('truetype'),
+         url('metropolis-100i-2.html') format('svg');
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-200.eot');
+    src: url('metropolis-200d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-200.html') format('woff2'),
+         url('metropolis-200.woff') format('woff'),
+         url('metropolis-200.ttf') format('truetype'),
+         url('metropolis-201.html') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-200i.eot');
+    src: url('metropolis-200id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-200i.html') format('woff2'),
+         url('metropolis-200i.woff') format('woff'),
+         url('metropolis-200i.ttf') format('truetype'),
+         url('metropolis-200i-2.html') format('svg');
+    font-weight: 200;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-300-.html');
+    src: url('metropolis-300-d41d.html?#iefix') format('embedded-opentype'),
+         url('metropolis-300.html') format('woff2'),
+         url('metropolis-300.woff') format('woff'),
+         url('metropolis-300.ttf') format('truetype'),
+         url('metropolis-301.html') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-300i.eot');
+    src: url('metropolis-300id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-300i.html') format('woff2'),
+         url('metropolis-300i.woff') format('woff'),
+         url('metropolis-300i.ttf') format('truetype'),
+         url('metropolis-300i-2.html') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-400.eot');
+    src: url('metropolis-400d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-400.html') format('woff2'),
+         url('metropolis-400.woff') format('woff'),
+         url('metropolis-400.ttf') format('truetype'),
+         url('metropolis-401.html') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-400i.eot');
+    src: url('metropolis-400id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-400i.html') format('woff2'),
+         url('metropolis-400i.woff') format('woff'),
+         url('metropolis-400i.ttf') format('truetype'),
+         url('metropolis-400i-2.html') format('svg');
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-500.eot');
+    src: url('metropolis-500d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-500.html') format('woff2'),
+         url('metropolis-500.woff') format('woff'),
+         url('metropolis-.html') format('truetype'),
+         url('metropolis-501.html') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-500i.eot');
+    src: url('metropolis-500id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-500i.html') format('woff2'),
+         url('metropolis-500i.woff') format('woff'),
+         url('metropolis-500i.ttf') format('truetype'),
+         url('metropolis-500i-2.html') format('svg');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-600.eot');
+    src: url('metropolis-600d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-600.html') format('woff2'),
+         url('metropolis-600.woff') format('woff'),
+         url('metropolis-600.ttf') format('truetype'),
+         url('metropolis-601.html') format('svg');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-600i.eot');
+    src: url('metropolis-600id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-600i.html') format('woff2'),
+         url('metropolis-600i.woff') format('woff'),
+         url('metropolis-600i.ttf') format('truetype'),
+         url('metropolis-600i-2.html') format('svg');
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-700.eot');
+    src: url('metropolis-700d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-700.html') format('woff2'),
+         url('metropolis-700.woff') format('woff'),
+         url('metropolis-700.ttf') format('truetype'),
+         url('metropolis-701.html') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-700i.eot');
+    src: url('metropolis-700id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-700i.html') format('woff2'),
+         url('metropolis-700i.woff') format('woff'),
+         url('metropolis-700i.ttf') format('truetype'),
+         url('metropolis-700i-2.html') format('svg');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-800.eot');
+    src: url('metropolis-800d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-800.html') format('woff2'),
+         url('metropolis-800.woff') format('woff'),
+         url('metropolis-800.ttf') format('truetype'),
+         url('metropolis-801.html') format('svg');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-800i.eot');
+    src: url('metropolis-800id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-800i.html') format('woff2'),
+         url('metropolis-800i.woff') format('woff'),
+         url('metropolis-800i.ttf') format('truetype'),
+         url('metropolis-800i-2.html') format('svg');
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-900.eot');
+    src: url('metropolis-900d41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-900.html') format('woff2'),
+         url('metropolis-900.woff') format('woff'),
+         url('metropolis-900.ttf') format('truetype'),
+         url('metropolis-901.html') format('svg');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-900i.eot');
+    src: url('metropolis-900id41d.eot?#iefix') format('embedded-opentype'),
+         url('metropolis-900i.html') format('woff2'),
+         url('metropolis-900i.woff') format('woff'),
+         url('metropolis-900i.ttf') format('truetype'),
+         url('metropolis-900i-2.html') format('svg');
+    font-weight: 900;
+    font-style: italic;
+
+}
+
+
+

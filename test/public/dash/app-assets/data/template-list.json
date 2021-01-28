@@ -1,0 +1,10 @@
+{
+  "listItems": [
+    {
+      "name": "Dashboard",
+      "url": "/",
+      "icon": "ft-alert-triangle"
+    }
+   
+  ]
+}
