@@ -27,7 +27,7 @@
                     </p>
 
                     <div class="search-form-main">
-                        <form id="SearchForm" method="get" action="{{ route('search-data') }}">
+                        <form  action="{{ route('select-data') }}"   method="get" id="SearchForm"  role="form">
                              @csrf
                             <div class="from-inner">
 

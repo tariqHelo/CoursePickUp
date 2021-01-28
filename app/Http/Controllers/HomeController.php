@@ -84,7 +84,12 @@ class HomeController extends Controller
 
         return view('home', compact('lang', 'featuredCountries', 'countries', 'features', 'bigTitle_arr', 'smallTitle', 'mainImage', 'partners', 'schools', 'featuredPackages', 'featuredArticles'));
     }
+{
 
+
+
+    
+}
     public function searchData()
     {
         dd(20);

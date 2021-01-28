@@ -32,7 +32,8 @@ Route::get('article/{slug}', 'HomeController@articleBySlug')->name('articleBySlu
 
 
 //Search Data Gust
-Route::get('/searchData', 'HomeController@searchData')->name('search-data');
+Route::get('/searchData', 'HomeController@searchData')->name('select-data');
+
 
 
 //Home Of Guest
